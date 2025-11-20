@@ -1,0 +1,1 @@
+{"name":"Local: pair","url":"f:\\My Code Collection\\Phitron\\Recap Data Structures\\stl\\pair.cpp","tests":[{"id":1763659530358,"input":"5\nhelen 1\njelen 2\nrelen 3\nselen 4\nmelen 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\My Code Collection\\Phitron\\Recap Data Structures\\stl\\pair.cpp","group":"local","local":true}
